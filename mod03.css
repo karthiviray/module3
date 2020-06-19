@@ -1,0 +1,21 @@
+h1{
+    width:100%;
+    border-style: solid;
+    background-color: grey;
+}
+h2{
+    margin-left: 45%;
+}
+.cont{
+    background-color: grey;
+}
+h3{
+    margin-bottom:12px;
+    margin-left: 46%;
+    padding-top: 10px;
+}
+p{
+    text-align: left;
+    padding-bottom: 10px;
+    padding-left: 7px;
+}
